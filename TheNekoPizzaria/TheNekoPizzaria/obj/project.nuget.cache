@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "G9hgPGZ5LuF3PnlM6jB4FqKZx9ucvlRg175Z1G9fA0MvlpOea2XJpDjHdabFA9WUrEBtizeXRuvLXmcW0ldXMw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\79384\\Desktop\\ASP NET Core Pizzaria app\\TheNekoPizzaria\\TheNekoPizzaria\\TheNekoPizzaria.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\79384\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\79384\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\79384\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\79384\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

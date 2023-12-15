@@ -1,0 +1,61 @@
+C:\Users\79384\Desktop\asp net core\TheNekoPizzaria\TheNekoPizzaria\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\79384\Desktop\asp net core\TheNekoPizzaria\TheNekoPizzaria\bin\Debug\net6.0\appsettings.json
+C:\Users\79384\Desktop\asp net core\TheNekoPizzaria\TheNekoPizzaria\bin\Debug\net6.0\TheNekoPizzaria.staticwebassets.runtime.json
+C:\Users\79384\Desktop\asp net core\TheNekoPizzaria\TheNekoPizzaria\bin\Debug\net6.0\TheNekoPizzaria.exe
+C:\Users\79384\Desktop\asp net core\TheNekoPizzaria\TheNekoPizzaria\bin\Debug\net6.0\TheNekoPizzaria.deps.json
+C:\Users\79384\Desktop\asp net core\TheNekoPizzaria\TheNekoPizzaria\bin\Debug\net6.0\TheNekoPizzaria.runtimeconfig.json
+C:\Users\79384\Desktop\asp net core\TheNekoPizzaria\TheNekoPizzaria\bin\Debug\net6.0\TheNekoPizzaria.dll
+C:\Users\79384\Desktop\asp net core\TheNekoPizzaria\TheNekoPizzaria\bin\Debug\net6.0\TheNekoPizzaria.pdb
+C:\Users\79384\Desktop\asp net core\TheNekoPizzaria\TheNekoPizzaria\obj\Debug\net6.0\TheNekoPizzaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79384\Desktop\asp net core\TheNekoPizzaria\TheNekoPizzaria\obj\Debug\net6.0\TheNekoPizzaria.AssemblyInfoInputs.cache
+C:\Users\79384\Desktop\asp net core\TheNekoPizzaria\TheNekoPizzaria\obj\Debug\net6.0\TheNekoPizzaria.AssemblyInfo.cs
+C:\Users\79384\Desktop\asp net core\TheNekoPizzaria\TheNekoPizzaria\obj\Debug\net6.0\TheNekoPizzaria.csproj.CoreCompileInputs.cache
+C:\Users\79384\Desktop\asp net core\TheNekoPizzaria\TheNekoPizzaria\obj\Debug\net6.0\TheNekoPizzaria.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\79384\Desktop\asp net core\TheNekoPizzaria\TheNekoPizzaria\obj\Debug\net6.0\TheNekoPizzaria.RazorAssemblyInfo.cache
+C:\Users\79384\Desktop\asp net core\TheNekoPizzaria\TheNekoPizzaria\obj\Debug\net6.0\TheNekoPizzaria.RazorAssemblyInfo.cs
+C:\Users\79384\Desktop\asp net core\TheNekoPizzaria\TheNekoPizzaria\obj\Debug\net6.0\staticwebassets\msbuild.TheNekoPizzaria.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\79384\Desktop\asp net core\TheNekoPizzaria\TheNekoPizzaria\obj\Debug\net6.0\staticwebassets\msbuild.build.TheNekoPizzaria.props
+C:\Users\79384\Desktop\asp net core\TheNekoPizzaria\TheNekoPizzaria\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TheNekoPizzaria.props
+C:\Users\79384\Desktop\asp net core\TheNekoPizzaria\TheNekoPizzaria\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TheNekoPizzaria.props
+C:\Users\79384\Desktop\asp net core\TheNekoPizzaria\TheNekoPizzaria\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\79384\Desktop\asp net core\TheNekoPizzaria\TheNekoPizzaria\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\79384\Desktop\asp net core\TheNekoPizzaria\TheNekoPizzaria\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\79384\Desktop\asp net core\TheNekoPizzaria\TheNekoPizzaria\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\79384\Desktop\asp net core\TheNekoPizzaria\TheNekoPizzaria\obj\Debug\net6.0\scopedcss\bundle\TheNekoPizzaria.styles.css
+C:\Users\79384\Desktop\asp net core\TheNekoPizzaria\TheNekoPizzaria\obj\Debug\net6.0\scopedcss\projectbundle\TheNekoPizzaria.bundle.scp.css
+C:\Users\79384\Desktop\asp net core\TheNekoPizzaria\TheNekoPizzaria\obj\Debug\net6.0\TheNekoPizzaria.dll
+C:\Users\79384\Desktop\asp net core\TheNekoPizzaria\TheNekoPizzaria\obj\Debug\net6.0\refint\TheNekoPizzaria.dll
+C:\Users\79384\Desktop\asp net core\TheNekoPizzaria\TheNekoPizzaria\obj\Debug\net6.0\TheNekoPizzaria.pdb
+C:\Users\79384\Desktop\asp net core\TheNekoPizzaria\TheNekoPizzaria\obj\Debug\net6.0\TheNekoPizzaria.genruntimeconfig.cache
+C:\Users\79384\Desktop\asp net core\TheNekoPizzaria\TheNekoPizzaria\obj\Debug\net6.0\ref\TheNekoPizzaria.dll
+C:\Users\79384\Desktop\ASP NET Core Pizzaria app\TheNekoPizzaria\TheNekoPizzaria\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\79384\Desktop\ASP NET Core Pizzaria app\TheNekoPizzaria\TheNekoPizzaria\bin\Debug\net6.0\appsettings.json
+C:\Users\79384\Desktop\ASP NET Core Pizzaria app\TheNekoPizzaria\TheNekoPizzaria\bin\Debug\net6.0\TheNekoPizzaria.staticwebassets.runtime.json
+C:\Users\79384\Desktop\ASP NET Core Pizzaria app\TheNekoPizzaria\TheNekoPizzaria\bin\Debug\net6.0\TheNekoPizzaria.exe
+C:\Users\79384\Desktop\ASP NET Core Pizzaria app\TheNekoPizzaria\TheNekoPizzaria\bin\Debug\net6.0\TheNekoPizzaria.deps.json
+C:\Users\79384\Desktop\ASP NET Core Pizzaria app\TheNekoPizzaria\TheNekoPizzaria\bin\Debug\net6.0\TheNekoPizzaria.runtimeconfig.json
+C:\Users\79384\Desktop\ASP NET Core Pizzaria app\TheNekoPizzaria\TheNekoPizzaria\bin\Debug\net6.0\TheNekoPizzaria.dll
+C:\Users\79384\Desktop\ASP NET Core Pizzaria app\TheNekoPizzaria\TheNekoPizzaria\bin\Debug\net6.0\TheNekoPizzaria.pdb
+C:\Users\79384\Desktop\ASP NET Core Pizzaria app\TheNekoPizzaria\TheNekoPizzaria\obj\Debug\net6.0\TheNekoPizzaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79384\Desktop\ASP NET Core Pizzaria app\TheNekoPizzaria\TheNekoPizzaria\obj\Debug\net6.0\TheNekoPizzaria.AssemblyInfoInputs.cache
+C:\Users\79384\Desktop\ASP NET Core Pizzaria app\TheNekoPizzaria\TheNekoPizzaria\obj\Debug\net6.0\TheNekoPizzaria.AssemblyInfo.cs
+C:\Users\79384\Desktop\ASP NET Core Pizzaria app\TheNekoPizzaria\TheNekoPizzaria\obj\Debug\net6.0\TheNekoPizzaria.csproj.CoreCompileInputs.cache
+C:\Users\79384\Desktop\ASP NET Core Pizzaria app\TheNekoPizzaria\TheNekoPizzaria\obj\Debug\net6.0\TheNekoPizzaria.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\79384\Desktop\ASP NET Core Pizzaria app\TheNekoPizzaria\TheNekoPizzaria\obj\Debug\net6.0\TheNekoPizzaria.RazorAssemblyInfo.cache
+C:\Users\79384\Desktop\ASP NET Core Pizzaria app\TheNekoPizzaria\TheNekoPizzaria\obj\Debug\net6.0\TheNekoPizzaria.RazorAssemblyInfo.cs
+C:\Users\79384\Desktop\ASP NET Core Pizzaria app\TheNekoPizzaria\TheNekoPizzaria\obj\Debug\net6.0\TheNekoPizzaria.sourcelink.json
+C:\Users\79384\Desktop\ASP NET Core Pizzaria app\TheNekoPizzaria\TheNekoPizzaria\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\79384\Desktop\ASP NET Core Pizzaria app\TheNekoPizzaria\TheNekoPizzaria\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\79384\Desktop\ASP NET Core Pizzaria app\TheNekoPizzaria\TheNekoPizzaria\obj\Debug\net6.0\staticwebassets\msbuild.TheNekoPizzaria.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\79384\Desktop\ASP NET Core Pizzaria app\TheNekoPizzaria\TheNekoPizzaria\obj\Debug\net6.0\staticwebassets\msbuild.build.TheNekoPizzaria.props
+C:\Users\79384\Desktop\ASP NET Core Pizzaria app\TheNekoPizzaria\TheNekoPizzaria\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TheNekoPizzaria.props
+C:\Users\79384\Desktop\ASP NET Core Pizzaria app\TheNekoPizzaria\TheNekoPizzaria\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TheNekoPizzaria.props
+C:\Users\79384\Desktop\ASP NET Core Pizzaria app\TheNekoPizzaria\TheNekoPizzaria\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\79384\Desktop\ASP NET Core Pizzaria app\TheNekoPizzaria\TheNekoPizzaria\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\79384\Desktop\ASP NET Core Pizzaria app\TheNekoPizzaria\TheNekoPizzaria\obj\Debug\net6.0\scopedcss\bundle\TheNekoPizzaria.styles.css
+C:\Users\79384\Desktop\ASP NET Core Pizzaria app\TheNekoPizzaria\TheNekoPizzaria\obj\Debug\net6.0\scopedcss\projectbundle\TheNekoPizzaria.bundle.scp.css
+C:\Users\79384\Desktop\ASP NET Core Pizzaria app\TheNekoPizzaria\TheNekoPizzaria\obj\Debug\net6.0\TheNekoPizzaria.dll
+C:\Users\79384\Desktop\ASP NET Core Pizzaria app\TheNekoPizzaria\TheNekoPizzaria\obj\Debug\net6.0\refint\TheNekoPizzaria.dll
+C:\Users\79384\Desktop\ASP NET Core Pizzaria app\TheNekoPizzaria\TheNekoPizzaria\obj\Debug\net6.0\TheNekoPizzaria.pdb
+C:\Users\79384\Desktop\ASP NET Core Pizzaria app\TheNekoPizzaria\TheNekoPizzaria\obj\Debug\net6.0\TheNekoPizzaria.genruntimeconfig.cache
+C:\Users\79384\Desktop\ASP NET Core Pizzaria app\TheNekoPizzaria\TheNekoPizzaria\obj\Debug\net6.0\ref\TheNekoPizzaria.dll
