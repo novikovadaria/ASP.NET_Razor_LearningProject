@@ -1,5 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
+using TheNekoPizzaria.Data;
+using TheNekoPizzaria.Models;
 
 namespace TheNekoPizzaria.Pages.Checkout
 {
@@ -9,6 +11,13 @@ namespace TheNekoPizzaria.Pages.Checkout
         public string PizzaName { get; set; }
         public float PizzaPrice { get; set; }
         public string ImageTitle { get; set; }
+
+        private readonly ApplicationDbContext _context;
+        public CheckoutModel(ApplicationDbContext context)
+        { 
+            _context = context;
+        }
+
         public void OnGet()
         {
             if (string.IsNullOrEmpty(PizzaName))
@@ -20,6 +29,13 @@ namespace TheNekoPizzaria.Pages.Checkout
             {
                 ImageTitle = "Create";
             }
+
+            PizzaOrder pizzaOrder = new PizzaOrder();
+            pizzaOrder.PizzaName = PizzaName;
+            pizzaOrder.BasePrice = PizzaPrice;
+
+            _context.PizzaOrders.Add(pizzaOrder);
+            _context.SaveChanges();
         }
     }
 }
