@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TheNekoPizzaria")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8a01db50dac7e1388f20f4d4522171b43d7a69c6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fc3c5f1a0ccd0206c3598d9b0619bf819582d093")]
 [assembly: System.Reflection.AssemblyProductAttribute("TheNekoPizzaria")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TheNekoPizzaria")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
