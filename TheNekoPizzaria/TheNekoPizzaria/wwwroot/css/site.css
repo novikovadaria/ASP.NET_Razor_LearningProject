@@ -47,3 +47,7 @@ body {
     margin: 100px 20px 0;
     color: white;
 }
+
+.pizza-img :hover {
+    transform: scale(1.05);
+}

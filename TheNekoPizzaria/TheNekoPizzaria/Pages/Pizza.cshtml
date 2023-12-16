@@ -36,10 +36,10 @@
                 var imagePath = "~/images/Pizzas/" + (pizza.ImageTitle + ".png");
                 <div class="col-4 mb-5">
 
-                    <img src="@imagePath" class="w-100" asp-append-version="true" />
-                    <a class="btn btn-primary mt-1" asp-area="" asp-page="Checkout/Checkout"
+
+                    <a class="pizza-img" asp-area="" asp-page="Checkout/Checkout"
                        asp-route-ImageTitle="@pizza.ImageTitle" asp-route-PizzaPrice="@pizza.FinalPrice"
-                       asp-route-PizzaName="@pizza.PizzaName">Get this Pizza!</a>
+                       asp-route-PizzaName="@pizza.PizzaName"><img src="@imagePath" class="w-100" asp-append-version="true" /></a>
 
                 </div>
             }
